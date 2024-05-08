@@ -1,10 +1,12 @@
 # WalletChecker
-How to work Wallet Checker ? نحوه کار ولت چکر یا ولت یاب یا........................
+How does (Wallet Checker,Wallet Cracker,.....) software work?? 
+
+نحوه کار ولت چکر یا ولت یاب یا یا هرچی ....
 
 
 ### Mony Mony :dollar: :dollar: :gun: , gang gang :yo_yo: :yo_yo:, girl girl :girl: :girl: , drugs drugs :smoking: :smoking:
 > Reading Words
- [unSort](https://www.bitcoinsafety.com/blogs/bitcoin/seed-phrase-list).
+ [unSorted](https://www.bitcoinsafety.com/blogs/bitcoin/seed-phrase-list).
  [Sorted](https://www.blockplate.com/pages/bip-39-wordlist).
 
 > Sort by word
@@ -86,5 +88,5 @@ public static DateTime GenerateRandomTime()
 
 واکنش تراست ولت یه این موضوع :
 <picture>
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="آhow to workes wallet checker" src="https://github.com/MasterBrok/WalletChecker/blob/main/pishro.webp">
 </picture>
